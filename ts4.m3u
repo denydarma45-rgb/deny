@@ -1,0 +1,212 @@
+#EXTM3U
+#EXTINF:100,RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+#EXTINF:0,GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
+#EXTINF:0,MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
+#EXTINF:100,TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+#EXTINF:0,TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+#EXTINF:99,INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
+#EXTINF:100,ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:99,MUSIK INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
+#EXTINF:100,!NSERT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-INSERT/playlist.m3u8
+#EXTINF:99,TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-TVONE/playlist.m3u8
+#EXTINF:0,MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-NET/playlist.m3u8
+#EXTINF:100,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-SCTV/playlist.m3u8
+#EXTINF:0,KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
+#EXTINF:0,METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-METROTV/playlist.m3u8
+#EXTINF:100,BALI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-BALITV/playlist.m3u8
+#EXTINF:100,TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-TVRI/playlist.m3u8
+#EXTINF:99,BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
+#EXTINF:0,RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
+#EXTINF:100,EAT & GO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
+#EXTINF:99,CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CNNINDONESIA/playlist.m3u8
+#EXTINF:100,KNOWLEDGE+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
+#EXTINF:100,CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+#EXTINF:100,THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-THRILL/playlist.m3u8
+#EXTINF:0,CINEMAWORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
+#EXTINF:100,CCTV 4 ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CCTV4/playlist.m3u8
+#EXTINF:100,CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CGTN/playlist.m3u8
+#EXTINF:99,CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
+#EXTINF:100,NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-NHKWORLD/playlist.m3u8
+#EXTINF:100,NHK WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-NHKPREMIUM/playlist.m3u8
+#EXTINF:0,ARIRANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-ARIRANG/playlist.m3u8
+#EXTINF:0,TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-TVN/playlist.m3u8
+#EXTINF:0,TVN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
+#EXTINF:100,KBS WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-KBSWORLD/playlist.m3u8
+#EXTINF:100,AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-AXN/playlist.m3u8
+#EXTINF:100,ALJAZEERA ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-ALJAZEERA/playlist.m3u8
+#EXTINF:100,ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-ABCAUSTRALIA/playlist.m3u8
+#EXTINF:100,DW ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-DWENGLISH/playlist.m3u8
+#EXTINF:0,EURONEWS.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-EURONEWS/playlist.m3u8
+#EXTINF:0,TV5 MONDE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-TV5MONDE/playlist.m3u8
+#EXTINF:100,FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8
+#EXTINF:100,FASHION TV SOUTHEAST ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
+#EXTINF:20,WARNER BROS.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
+#EXTINF:99,HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-HBO/playlist.m3u8
+#EXTINF:100,HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
+#EXTINF:99,HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
+#EXTINF:100,CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
+#EXTINF:100,CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
+#EXTINF:100,CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://mic.siar.us/mic/live/playlist.m3u8
+#EXTINF:30,IMTV
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+#EXTINF:50,PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+#EXTINF:0,FATWA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://202.169.224.202:8800/udp/239.3.1.6:1234
+#EXTINF:125,ASHIIL TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
